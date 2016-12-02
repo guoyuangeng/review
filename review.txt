@@ -2,3 +2,4 @@ This is a review of git learning!
 This is cool !!
 It is significant cool !!
 It is fuck amazing cool !!
+Those modifications are in branch new_branch !!
